@@ -1,0 +1,95 @@
+{
+     "desc": {
+     "message": "Это расширение блокирует доступ к Соц-Сетям"
+    },
+    "name": {
+     "message": "Родительский Контроль"
+    },
+   "days_0": {
+      "description": "Воскресенье",
+      "message": "Вс"
+   },
+   "days_1": {
+      "description": "Понедельник",
+      "message": "Пн"
+   },
+   "days_2": {
+      "description": "Вторник",
+      "message": "Вт"
+   },
+   "days_3": {
+      "description": "Среда",
+      "message": "Ср"
+   },
+   "days_4": {
+      "description": "Четверг",
+      "message": "Чт"
+   },
+   "days_5": {
+      "description": "Пятница",
+      "message": "Пт"
+   },
+   "days_6": {
+      "description": "Суббота",
+      "message": "Сб"
+   },
+   "delete": {
+      "message": "Удалить"
+   },
+   "help_text": {
+      "message": "\u003Cp>Скройте социальные сети от ваших детей.\u003C/p>\u003Cp>\u003Cb>Настройте расписание.\u003C/b> Выберите время и дни, когда ваш ребенок дома Отметьте сайты, на которые вы не желаете чтобы сидел ваш ребенок.\u003C/p>\u003Cp>Пока мы умеем блокировать Твитер, Фейсбук, Вконтакте и Одноклассники.\u003C/p>"
+   },
+   "help_title": {
+      "message": "Как пользоваться"
+   },
+   "motivateMessage": {
+      "description": "Главное мотивационной сообщение",
+      "message": "Эта социальная сеть заблокирована, пожалуйста ожидайте возможно скоро мы восстановим доступ."
+   },
+   "options_add": {
+      "message": "Добавить"
+   },
+   "options_all": {
+      "message": "Все"
+   },
+   "options_allday": {
+      "message": "Весь день"
+   },
+   "options_days": {
+      "description": "Легенда кнопок с днями",
+      "message": "Дни"
+   },
+   "options_everyday": {
+      "description": "Если выбраны все дни недели",
+      "message": "Каждый день"
+   },
+   "options_from": {
+      "message": "С"
+   },
+   "options_newrule": {
+      "message": "Новое правило"
+   },
+   "options_save": {
+      "message": "Сохранить"
+   },
+   "options_schedule": {
+      "message": "Расписание"
+   },
+   "options_sites": {
+      "description": "Легенда кнопок с сайтам",
+      "message": "Сайты"
+   },
+   "options_time": {
+      "description": "Легенда полей со временм",
+      "message": "Время"
+   },
+   "options_to": {
+      "message": "До"
+   },
+   "title_closed": {
+      "message": "Заблокировано до"
+   },
+   "title_tomorrow": {
+      "message": "завтра"
+   }
+}

@@ -1,0 +1,43 @@
+{
+    "author": "Plugtopus Agency",
+    "background": {
+        "persistent": false,
+        "scripts": ["js/bg.js"]
+    },
+    "browser_action": {
+        "default_icon": "icon/icon.png"
+    },
+    "content_scripts": [{
+        "css": ["css/vk.css"],
+        "js": ["js/vk.js"],
+        "matches": ["*://*.vk.com/*"],
+        "run_at": "document_start"
+    }, {
+        "css": ["css/fb.css"],
+        "js": ["js/fb.js"],
+        "matches": ["*://*.facebook.com/*"],
+        "run_at": "document_start"
+    }, {
+        "css": ["css/tw.css"],
+        "js": ["js/tw.js"],
+        "matches": ["*://*.twitter.com/*"],
+        "run_at": "document_start"
+    }, {
+        "css": ["css/ok.css"],
+        "js": ["js/ok.js"],
+        "matches": ["*://*.ok.ru/*"],
+        "run_at": "document_start"
+    }],
+    "default_locale": "ru",
+    "homepage_url": "https://plugtopus.agency",
+    "description": "__MSG_desc__",
+    "icons": {
+        "48": "icon/icon-48.png"
+    },
+    "manifest_version": 2,
+    "name": "__MSG_name__",
+    "options_page": "html/options.html",
+    "permissions": ["storage"],
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    "version": "19.3.18.1"
+}
